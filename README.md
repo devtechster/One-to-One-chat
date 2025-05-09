@@ -1,5 +1,3 @@
-Sure, here's a combined Markdown file describing the whole project:
-
 ### Project Description
 
 This project is a simple peer-to-peer (P2P) messenger application implemented using HTML, CSS, and JavaScript. It allows users to exchange messages in real-time using a P2P communication approach facilitated by the Bugout library.
